@@ -1,6 +1,6 @@
-site_name: My New Software
-site_author: 作者名
-site_description: 欢迎访问
+site_name: 果冻传媒www网站入口
+site_author: 麻豆剧果冻传媒精品网站
+site_description: 果冻传媒精品推荐在线
 theme:
   name: readthedocs
 nav:
