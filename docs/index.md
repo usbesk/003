@@ -1,13 +1,31 @@
-# Welcome to My Software
+# 果冻传媒www网站入口
 
-My Software is a state-of-the-art solution for all your software needs. 
+果冻传媒——新生代影视内容创作平台，引领短剧与微电影新潮流！
 
-## Features
+果冻传媒是一家近年来迅速崛起的创新型影视内容制作公司，专注于打造**短剧、微电影与网络剧集**等新媒体内容。凭借灵活的创作机制、年轻化的题材风格以及多平台的传播策略，果冻传媒逐渐成为深受年轻观众喜爱的内容生产品牌。  
 
-- **Feature 1:** Description of feature 1.
-- **Feature 2:** Description of feature 2.
-- **Feature 3:** Description of feature 3.
+### 🎬 **核心优势与内容特色：**  
 
-## Get Started
+✅ **内容多元，题材丰富**  
+果冻传媒的作品覆盖爱情、悬疑、校园、职场、奇幻等多个热门题材，专注于呈现**短小精悍、剧情紧凑、节奏明快**的影视内容，适配当代观众碎片化的观看习惯。其原创剧集多以“反转剧情”“高能开局”著称，极具话题性与吸引力。  
 
-©2025  All Rights Reserved.  网站备案号：湘ICP备18008451号-6[Content Page](content.md).
+✅ **面向年轻群体，紧跟潮流**  
+平台以**90后、00后**为主要受众群体，选角年轻化，剧情贴近生活热点与网络文化，增强代入感与讨论度，快速在社交平台形成二次传播。  
+
+✅ **微短剧模式，输出高频率**  
+果冻传媒采取高频率的内容更新模式，推出大量5-15分钟一集的微短剧集群，不仅制作周期短、上线快，也更容易与观众建立粘性和持续关注度。  
+
+✅ **全平台分发，覆盖广泛**  
+果冻传媒的作品广泛分发至**抖音、快手、微信视频号、B站、爱奇艺、优酷等平台**，实现内容的多渠道传播，极大提升曝光率与观众覆盖面。  
+
+✅ **素人+网红孵化机制**  
+公司拥有自有艺人培训与选角体系，扶持大量短剧演员及网络红人，推动从演员孵化到内容生产的闭环发展。  
+
+📢 **果冻传媒，正引领中国微短剧内容的新风潮！**  
+凭借独特的创意视角与对年轻市场的精准把握，果冻传媒正不断打造出爆款短剧IP，让更多优质内容以轻量化方式触达大众。未来，它将继续深耕新媒体影视赛道，成为内容创作领域的核心力量之一。
+
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
+ <a href="https://mr.mbd.baidu.com/1iib1ebUDio?8x.html" style="text-decoration: none; color: white; background-color: black; font-size: 32px; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">👉👉♥点我进入♥观看入口👈👈</a>
+</div>
+
+©2025  All Rights Reserved. 果冻传媒www网站入口 网站备案号：湘ICP备11208451号-6[Content Page](content.md).
