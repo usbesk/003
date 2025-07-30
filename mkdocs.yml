@@ -1,6 +1,6 @@
-site_name: 果冻传媒www网站入口
-site_author: 麻豆剧果冻传媒精品网站
-site_description: 果冻传媒精品推荐在线
+site_name: 99RE免费观看精品视频_99热国产在线播放,_99re热视频这里只精品_99视频精品全部在线播放_九九视频这里只有精品
+site_author: 99RE在线
+site_description: 99re是汇聚全球创作者的灵感平台，提供AI创作工具、最新官网地址、视频，注册、登陆、登录、入口版权保护及商业对接服务，助力创意价值变现。
 theme:
   name: readthedocs
 nav:
@@ -8,8 +8,3 @@ nav:
   - About: about.md
   - Features: features.md
   - Contact: contact.md
-theme:
-  name: material
-nav:
-  - Home: index.md
-  - Content: content.md
